@@ -1,3 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Proximiio Demo</string>
+
+    <string name="app_name">Tour Guide</string>
+    <string name="Petunjuk">Petunjuk</string>
+    <string name="Exit">Exit</string>
+    <string name="history">History</string>
+    <string name="large_text">
+     \n
+        "Museum Negeri Sri Baduga yang terletak di ruas Jalan B.K.R. 185 Tegallega dan berhadapan dengan Monumen Bandung Lautan Api, dirintis sejak tahun 1974 dengan memanfaatkan lahan dan bangunan bekas kewedanaan Tegallega.\"
+        "Bangunan Museum berbentuk bangunan suhunan panjang dan rumah panggung khas Jawa Barat yang dipadukan dengan gaya arsitektur modern.\"
+        "adapun bangunan aslinya tetap dipertahankan dan difungsikan sebagai ruang perkantoran.\"
+        "Tahap pertama pembangunan diselesaikan pada tahun 1980, diresmikan pada tanggal 5 Juni oleh Menteri Pendidikan dan Kebudayaan, Dr. Daud Yusuf dan diberi nama Museum Negeri Propinsi Jawa Barat.\"
+        "Areal museum yang luasnya mencapai 8.415,5 m2 dibagi menjadi dua bagian; wilayah publik (public area), mencakup gedung pameran dan auditorium dan wilayah buka publik (non public area), mencakup ruang perkantoran Kepala Museum, Sub Bagian Tata Usaha, Kelompok Kerja Bimbingan dan Edukasi, Kelompok Kerja Konservasi dan Preparasi serta Kelompok Kerja Koleksi (termasuk di dalamnya Gedung Penyimpanan Koleksi).\"
+
+        "Sepuluh tahun kemudian, nama museum dilengkapi dengan nama Sri Baduga diambil dari nama raja Sunda yang bertahta di Pakwan Pajajaran sekitar abad ke-16 Masehi."
+        "Nama ini tertuang dalam prasasti Batutulis (Bogor) secara lengkap tertulis SRI BADUGA MAHARAJA RATU HAJI I PAKWAN PAJAJARAN SRI RATU DEWATA."
+        "Sebagai Museum umum yang memiliki koleksi dari jenis koleksi Geologika, Biologika, Etnografika, Arkeologika, Historika, Numismatika/Heraldika, Filologika, Keramik, Seni Rupa dan Teknologi ini, tercatat tidak kurang sebanyak 5.367 buah koleksi; terbanyak adalah koleksi rumpun Etnografika yang berhubungan dengan benda-benda budaya daerah."
+        "Jumlah koleksi tersebut tidak terbatas pada bentuk realia (asli), tapi dilengkapi dengan koleksi replika, miniatur, foto, dan maket."
+        "Benda-benda koleksi tersebut selain dipamerkan dalam pameran tetap, juga didokumentasikan dengan sistem komputerisasi dan disimpan di gudang penyimpanan koleksi.\n"
+
+        "Untuk lebih meningkatkan daya apresiasi masyarakat terhadap museum, berbagai kegiatan telah dijalankan, baik yang bersifat kegiatan mandiri ataupun kerjasama kegiatan yang bersifat lintas sektoral dengan berbagai instansi pemerintah, swasta, maupun lembaga asing; diantaranya berupa penyelenggaraan pameran temporer, pameran keliling, pameran bersama dengan museum dari berbagai propinsi, berbagai macam lomba untuk tingkat pelajar, ceramah, seminar, lokakarya, dan sebagainya."
+        "Karena perkembangan peran dan fungsinya sebagai tempat atau wahana dalam menunjang pendidikan, menambah pengetahuan, dan rekreasi; Museum Negeri Sri Baduga Porpinsi Jawa Barat melaksanakan renovasi terhadap tata pameran tetapnya secara bertahap mulai tahun 1989 sampai dengan tahun 1992, berikut perluasan ruang pameran baru di lantai tiga."
+
+        "Selanjutnya penyajian koleksi ditata sedemikian rupa dan diupayakan agar pengunjung dapat memperoleh gambaran tentang perjalanan sejarah alam dan budaya Jawa barat, corak dan ragamnya, serta fase-fase perkembangan serta perubahannya."
+        "Pengelompokannya dibagi menjadi; lantai satu merupakan tampilan perkembangan awal dari sejarah alam dan budaya Jawa Barat."
+        "Dalam tata pameran ini digambarkan sejarah alam yang melatarbelakangi sejarah Jawa Barat, antara lain dengan menampilkan benda-benda peninggalan buatan tangan dari masa Prasejarah hingga jaman Hindu-Buddha. Selanjutnya di lantai kedua meliputi materi pameran budaya tradisional berupa pola kehidupan masyarakat, mata pencaharian hidup, perdagangan, dan transportasi; pengaruh budaya Islam dan Eropa, sejarah perjuangan bangsa,dan lambang-lambang daerah kabupaten dan kota se-Jawa Barat."
+        "Adapun lantai tiga, memamerkan koleksi etnografi berupa ragam bentuk dan fungsi wadah, kesenian, dan keramik asing."
+    </string>
+
 </resources>
