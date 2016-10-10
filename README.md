@@ -1,3 +1,10 @@
+Museum Sribaduga 
+
+this sample App, i am using Proximi.io platform SDK and indoorAtlas SDK on proximi.io platform. you need to switch on your GPS. so this app can request current location on map. 
+
+
+
+
 # Proximiio Demo
 
 Welcome!
